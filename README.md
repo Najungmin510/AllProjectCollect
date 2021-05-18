@@ -38,7 +38,7 @@
 [테스트를 해봅시다] (https://github.com/Najungmin510/AllProjectCollect2)
 # [테스트테스트 제목에도 링크가 과연?](https://github.com/Najungmin510/AllProjectCollect2)
 
-### 이미지에도 링크추가 하고싶은뎅!!!
+### 이미지에도 링크추가 하고싶은뎅!!! 이미지
 [![이미지예시](https://user-images.githubusercontent.com/83949732/118621509-655cf100-b801-11eb-8481-8fc3e8a46ace.png)](https://github.com/Najungmin510/AllProjectCollect2)
 
 
